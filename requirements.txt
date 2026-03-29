@@ -1,0 +1,31 @@
+# Meth3D-Net V6 — Python Environment
+# Tested on Python 3.10 (Kaggle Notebooks, March 2026)
+# Install: pip install -r requirements.txt
+
+# ── Core scientific stack ─────────────────────────────────────────────────────
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# ── Machine learning ──────────────────────────────────────────────────────────
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+shap>=0.42.0
+
+# ── Survival analysis ─────────────────────────────────────────────────────────
+lifelines>=0.27.0
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ── File I/O ──────────────────────────────────────────────────────────────────
+openpyxl>=3.1.0        # Excel output (CT score workbooks)
+
+# ── GEO data access (optional — used in notebook 03) ─────────────────────────
+# GEOparse>=2.0.3      # uncomment if using GEOparse for series matrix parsing
+# biopython>=1.81      # uncomment if using Entrez for GEO queries
+
+# ── Notebook environment ──────────────────────────────────────────────────────
+jupyter>=1.0.0
+ipykernel>=6.0.0
