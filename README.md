@@ -2,7 +2,7 @@
 
 **Integrative Multi-Scale Epigenomic Framework for Methylation Prediction, Chromatin Instability Detection, and lncRNA–miRNA Regulatory Network Identification in Medulloblastoma**
 
-*Neetu Singh — King George's Medical University (KGMC), Lucknow, India*  
+*Neetu Singh — King George's Medical University (KGMC), Lucknow, India*
 *neetusingh@kgmcindia.edu*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
