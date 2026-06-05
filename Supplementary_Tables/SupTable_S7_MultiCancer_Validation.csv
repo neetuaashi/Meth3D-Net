@@ -1,0 +1,11 @@
+Dataset,Cancer,Platform,n,Layer_A_fold,Layer_A_p,Layer_A_r,Layer_B_CT_r,Layer_B_p,Layer_C_pct,Layer_C_r,Layer_C_p,Normal_n,Tumour_n,Note
+GSE85212,Medulloblastoma (MB),Illumina 450k,763,1.62,<2.2e-300,0.039,0.039,<2.2e-300,58.4,0.025,2.1e-13,0,763,MB training-cohort validation (NB01)
+TCGA_PanCan,TCGA Pan-Cancer (33 types),Illumina 450k,9854,1.36,<0.001,0.271,0.013,4.1e-5,40.8,-0.248,<2.2e-300,671,8695,TCGA pan-cancer validation (NB05)
+GSE39279,Lung adenocarcinoma (LUAD),Illumina 450k,444,1.352,2.8e-91,0.1345,0.0666,8.5e-42,N/A (tumour-only),N/A,N/A,0,444,NB09; Selamat 2012
+GSE56044,Lung cancer (LUAD+LUSC),Illumina 450k,136,1.407,1.3e-89,0.1288,0.0657,1.5e-40,58.0,0.0419,3.4e-11,12,124,NB09; Sandoval 2013
+Lung_Meta,Lung meta-analysis (GSE39279+GSE56044),Illumina 450k,580,1.351,5.7e-148,—,—,—,58.0,—,—,12,568,NB09 meta-analysis
+GSE75067,Breast cancer (BRCA),Illumina 450k,188,1.491,9.2e-99,0.1386,0.071,5.2e-47,N/A (tumour-only),N/A,N/A,0,188,NB09; Holm 2016
+GSE101764,Colorectal cancer (CRC),Illumina 450k,261,1.313,2.4e-61,0.1116,0.0636,3.1e-38,N/A (tumour-only),N/A,N/A,0,261,NB09; Jeschke 2017
+GSE48684,Colorectal progression (CRC),Illumina 450k,147,1.55,4.0e-46,0.1073,0.0647,1.8e-39,63.3,0.0314,6.9e-7,41,106,NB09; Berman 2012; normal→carcinoma progression
+GSE54503,Hepatocellular carcinoma (HCC),Illumina 450k,132,1.69,5.9e-142,0.1686,0.0847,2.0e-66,N/A (tumour-only),N/A,N/A,0,132,NB09; Shen 2014
+GSE36278,Glioblastoma (GBM),Illumina 450k,142,1.336,6.7e-44,0.0999,0.049,2.7e-23,N/A (tumour-only),N/A,N/A,0,142,NB09; Sturm 2012
